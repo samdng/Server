@@ -16,3 +16,6 @@
 	[Compatibility.tconstruct]
 		enable_compat_tconstruct = true
 
+	[Compatibility.mca]
+		enable_compat_mca = true
+

@@ -1,231 +1,237 @@
 {
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_the_slanted_recipe": "2024-12-07 17:57:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
-      "seeds": "2024-12-06 05:58:47 +0000"
+      "seeds": "2024-12-07 17:57:57 +0000"
     },
     "done": true
   },
   "betterdungeons:root": {
     "criteria": {
-      "always": "2024-12-06 05:58:47 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:the_bumblezone/teleportation/is_near_beehive": {
-    "criteria": {
-      "is_near_beehive": "2024-12-06 05:58:51 +0000"
+      "always": "2024-12-07 17:57:58 +0000"
     },
     "done": true
   },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
-      "has_recipe": "2024-12-06 05:58:47 +0000",
-      "has_cracked_stone_bricks": "2024-12-06 05:58:47 +0000"
+      "has_recipe": "2024-12-07 17:57:57 +0000",
+      "has_cracked_stone_bricks": "2024-12-07 17:57:57 +0000"
     },
     "done": true
   },
   "monsters_and_girls:monsters_and_girls_update": {
     "criteria": {
-      "monsters_and_girls_update": "2024-12-06 05:58:47 +0000"
+      "monsters_and_girls_update": "2024-12-07 17:57:58 +0000"
     },
     "done": true
   },
   "lootr:root": {
     "criteria": {
-      "always_true": "2024-12-06 05:58:47 +0000"
+      "always_true": "2024-12-07 17:57:58 +0000"
     },
     "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
-      "auto": "2024-12-06 05:58:48 +0000"
+      "auto": "2024-12-07 17:57:59 +0000"
     },
     "done": true
   },
   "cataclysm:root": {
     "criteria": {
-      "custom_test_name": "2024-12-06 05:58:47 +0000"
+      "custom_test_name": "2024-12-07 17:57:58 +0000"
     },
     "done": true
   },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
-      "tick": "2024-12-06 05:58:47 +0000"
+      "tick": "2024-12-07 17:57:58 +0000"
     },
     "done": true
   },
   "mg_secrets_of_mermaids:discover_the_mermaids": {
     "criteria": {
-      "discover_the_mermaids": "2024-12-06 05:58:47 +0000"
+      "discover_the_mermaids": "2024-12-07 17:57:58 +0000"
     },
     "done": true
   },
   "naturescompass:natures_compass": {
     "criteria": {
-      "has_compass": "2024-12-06 05:58:47 +0000"
+      "has_compass": "2024-12-07 17:57:57 +0000"
     },
     "done": true
   },
   "tconstruct:tools/materials_and_you": {
     "criteria": {
-      "crafted_book": "2024-12-06 05:58:47 +0000"
+      "crafted_book": "2024-12-07 17:57:58 +0000"
     },
     "done": true
   },
   "dungeons_arise:wda_root": {
     "criteria": {
-      "WDA": "2024-12-06 05:58:47 +0000"
+      "WDA": "2024-12-07 17:57:58 +0000"
     },
     "done": true
   },
   "tconstruct:internal/starting_book": {
     "criteria": {
-      "tick": "2024-12-06 05:58:47 +0000"
+      "tick": "2024-12-07 17:57:58 +0000"
     },
     "done": true
   },
   "byg:root": {
     "criteria": {
-      "tick": "2024-12-06 05:58:47 +0000"
+      "tick": "2024-12-07 17:57:58 +0000"
     },
     "done": true
   },
   "the_bumblezone:the_bumblezone/root": {
     "criteria": {
-      "instant_granted": "2024-12-06 05:58:47 +0000"
+      "instant_granted": "2024-12-07 17:57:58 +0000"
     },
     "done": true
   },
   "overweight_farming:building_blocks/vegetable_compost": {
     "criteria": {
-      "has_the_recipe": "2024-12-06 05:58:47 +0000"
+      "has_the_recipe": "2024-12-07 17:57:58 +0000"
     },
     "done": true
   },
   "tombstone:adventure/christmas": {
     "criteria": {
-      "coded_trigger": "2024-12-06 05:58:47 +0000"
+      "coded_trigger": "2024-12-07 17:57:57 +0000"
     },
     "done": true
   },
   "grimoireofgaia:main/root": {
     "criteria": {
-      "join": "2024-12-06 05:58:47 +0000"
+      "join": "2024-12-07 17:57:58 +0000"
     },
     "done": true
   },
   "friendsandfoes:misc/yellow_dye_from_buttercup": {
     "criteria": {
-      "has_the_recipe": "2024-12-06 05:58:47 +0000"
+      "has_the_recipe": "2024-12-07 17:57:58 +0000"
     },
     "done": true
   },
   "overweight_farming:building_blocks/waxed_seedless_peeled_melon_from_honeycomb": {
     "criteria": {
-      "has_the_recipe": "2024-12-06 05:58:47 +0000"
+      "has_the_recipe": "2024-12-07 17:57:58 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:windswept_savanna": "2024-12-06 05:58:48 +0000"
+      "minecraft:savanna": "2024-12-07 17:57:59 +0000"
     },
     "done": false
   },
   "ars_nouveau:root": {
     "criteria": {
-      "ars_nouveau:worn_notebook": "2024-12-06 05:58:47 +0000"
+      "ars_nouveau:worn_notebook": "2024-12-07 17:57:57 +0000"
     },
     "done": true
   },
   "the_bumblezone:the_bumblezone/wiki": {
     "criteria": {
-      "instant_granted": "2024-12-06 05:58:47 +0000"
+      "instant_granted": "2024-12-07 17:57:58 +0000"
     },
     "done": true
   },
   "queen_bee:root": {
     "criteria": {
-      "root": "2024-12-06 05:58:47 +0000"
+      "root": "2024-12-07 17:57:58 +0000"
     },
     "done": true
   },
   "create:root": {
     "criteria": {
-      "0": "2024-12-06 05:58:47 +0000"
+      "0": "2024-12-07 17:57:57 +0000"
     },
     "done": true
   },
   "betterdeserttemples:root": {
     "criteria": {
-      "always": "2024-12-06 05:58:47 +0000"
+      "always": "2024-12-07 17:57:58 +0000"
     },
     "done": true
   },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
-      "tick": "2024-12-06 05:58:47 +0000"
+      "tick": "2024-12-07 17:57:58 +0000"
     },
     "done": true
   },
   "iceandfire:iceandfire/root": {
     "criteria": {
-      "tick": "2024-12-06 05:58:47 +0000"
+      "tick": "2024-12-07 17:57:58 +0000"
     },
     "done": true
   },
   "naturescompass:natures_compass_log": {
     "criteria": {
-      "has_recipe": "2024-12-06 05:58:47 +0000"
+      "has_recipe": "2024-12-07 17:57:57 +0000"
     },
     "done": true
   },
   "overweight_farming:building_blocks/waxed_half_seeded_peeled_melon_from_honeycomb": {
     "criteria": {
-      "has_the_recipe": "2024-12-06 05:58:47 +0000"
+      "has_the_recipe": "2024-12-07 17:57:58 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:grant_patchi_book": {
+    "criteria": {
+      "tick": "2024-12-07 17:57:58 +0000"
     },
     "done": true
   },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
-      "has_recipe": "2024-12-06 05:58:47 +0000"
+      "has_recipe": "2024-12-07 17:57:57 +0000"
     },
     "done": true
   },
   "overweight_farming:building_blocks/waxed_seeded_peeled_melon_from_honeycomb": {
     "criteria": {
-      "has_the_recipe": "2024-12-06 05:58:47 +0000"
+      "has_the_recipe": "2024-12-07 17:57:58 +0000"
     },
     "done": true
   },
   "undergarden:undergarden/root": {
     "criteria": {
-      "tick": "2024-12-06 05:58:47 +0000"
+      "tick": "2024-12-07 17:57:58 +0000"
     },
     "done": true
   },
   "feywild:feywild/root": {
     "criteria": {
-      "inventory_changed": "2024-12-06 05:58:47 +0000"
+      "inventory_changed": "2024-12-07 17:57:57 +0000"
     },
     "done": true
   },
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
-      "has_recipe": "2024-12-06 05:58:47 +0000",
-      "has_cobweb": "2024-12-06 05:58:47 +0000"
+      "has_cobweb": "2024-12-07 17:57:57 +0000"
     },
     "done": true
   },
   "mowziesmobs:root": {
     "criteria": {
-      "custom_test_name": "2024-12-06 05:58:47 +0000"
+      "custom_test_name": "2024-12-07 17:57:58 +0000"
     },
     "done": true
   },
   "explorerscompass:explorers_compass": {
     "criteria": {
-      "has_compass": "2024-12-06 05:58:47 +0000"
+      "has_recipe": "2024-12-07 17:57:57 +0000",
+      "has_compass": "2024-12-07 17:57:57 +0000"
     },
     "done": true
   },
